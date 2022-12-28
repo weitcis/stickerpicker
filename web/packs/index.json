@@ -1,0 +1,13 @@
+{
+  "packs": [
+    "LINE_YURU_YURI.json",
+    "shamiko_faces.json",
+    "hololive_EN.json",
+    "Suofei.json",
+    "ProgAnimeGirls.json",
+    "BocchitheRock.json",
+    "WatashiniTenshigaMaiorita.json",
+    "nyum_s_girl_complete_edition_INP.json"
+  ],
+  "homeserver_url": "https://matrix.fal.moe"
+}
